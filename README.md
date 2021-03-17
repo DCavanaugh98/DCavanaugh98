@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @DCavanaugh98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#### Hi, I am David Cavanaugh
 
-<!---
-DCavanaugh98/DCavanaugh98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-Hi, I am David Cavanaugh. I am a Data Scientist at Werner Enterprises. 
+I am a Data Scientist at Werner Enterprises. I am interested in all things data related; exploring, analyzing, and modelling. My favorite projects are the ones where I get to develop some new code to assist me in providing a flexible and valuable solution which meets and exceeds the original project goals.
